@@ -18,6 +18,7 @@ Windows 64비트용이며 Python을 따로 설치할 필요가 없습니다. 현
 
 | 버전 | 내용 |
 | --- | --- |
+| [v1.0.1](https://github.com/DukiChoi/Market-Peek-releases/releases/tag/v1.0.1) | 소액 현물 숨김 · 포지션 정렬 · 상단 접기 영역 확대 |
 | [v1.0.0](https://github.com/DukiChoi/Market-Peek-releases/releases/tag/v1.0.0) | 첫 공개 배포 · Windows EXE 및 7z |
 
 이 저장소는 배포 파일과 버전 기록을 제공합니다. 프로그램 소스 코드는 포함하지 않습니다.
