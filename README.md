@@ -2,7 +2,7 @@
 
 바탕화면에서 코인·한국·미국 주식 시세와 거래소 포지션을 확인하는 데스크톱 앱입니다. Windows에서는 작업 표시줄 시세도 지원합니다.
 
-[최신 릴리스](https://github.com/Duki-Programming/Market-Peek-releases/releases/latest) · [버전별 다운로드](https://github.com/Duki-Programming/Market-Peek-releases/releases)
+[프로그램 소개와 설치 안내](https://duki-programming.github.io/market-peek/) · [English](https://duki-programming.github.io/market-peek/en/) · [최신 릴리스](https://github.com/Duki-Programming/Market-Peek-releases/releases/latest) · [버전별 다운로드](https://github.com/Duki-Programming/Market-Peek-releases/releases)
 
 ## 다운로드
 
