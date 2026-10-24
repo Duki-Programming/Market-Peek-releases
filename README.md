@@ -9,7 +9,7 @@
 | 운영체제 | 버전 | 다운로드 |
 | --- | --- | --- |
 | Windows 64비트 | v1.0.2 Beta | [설치 EXE](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.2/Market.Peek.Setup.1.0.2.exe) · [7z](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.2/market-peek-1.0.2-x64.7z) |
-| macOS Universal | v1.0.2 Beta | [설치 DMG](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.2/market-peek-1.0.2-universal.dmg) |
+| macOS Universal | v1.0.3 Beta | [설치 DMG](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.3/market-peek-1.0.3-universal.dmg) |
 
 공개된 설치 파일을 표시합니다. macOS 파일이 최신 릴리스보다 오래된 버전이면 새 파일을 준비하는 동안 다운로드를 제공하지 않습니다.
 
@@ -32,6 +32,7 @@ Python을 따로 설치할 필요가 없습니다. Windows 설치 파일에는 A
 
 | 버전 | 변경 내용 |
 | --- | --- |
+| [v1.0.3 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.3) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.3) |
 | [v1.0.2 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.2) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.2) |
 | [v1.0.1 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.1) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.1) |
 | [v1.0.0 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.0) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.0) |
