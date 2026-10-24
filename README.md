@@ -2,14 +2,14 @@
 
 바탕화면에서 코인·한국·미국 주식 시세와 거래소 포지션을 확인하는 데스크톱 앱입니다. Windows에서는 작업 표시줄 시세도 지원합니다.
 
-[프로그램 소개와 설치 안내](https://dukichoi.github.io/programs/market-peek/) · [최신 릴리스](https://github.com/DukiChoi/Market-Peek-releases/releases/latest) · [버전별 다운로드](https://github.com/DukiChoi/Market-Peek-releases/releases)
+[최신 릴리스](https://github.com/Duki-Programming/Market-Peek-releases/releases/latest) · [버전별 다운로드](https://github.com/Duki-Programming/Market-Peek-releases/releases)
 
 ## 다운로드
 
 | 운영체제 | 버전 | 다운로드 |
 | --- | --- | --- |
-| Windows 64비트 | v1.0.2 Beta | [설치 EXE](https://github.com/DukiChoi/Market-Peek-releases/releases/download/v1.0.2/Market.Peek.Setup.1.0.2.exe) · [7z](https://github.com/DukiChoi/Market-Peek-releases/releases/download/v1.0.2/market-peek-1.0.2-x64.7z) |
-| macOS Universal | v1.0.2 Beta | [설치 DMG](https://github.com/DukiChoi/Market-Peek-releases/releases/download/v1.0.2/market-peek-1.0.2-universal.dmg) |
+| Windows 64비트 | v1.0.2 Beta | [설치 EXE](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.2/Market.Peek.Setup.1.0.2.exe) · [7z](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.2/market-peek-1.0.2-x64.7z) |
+| macOS Universal | v1.0.2 Beta | [설치 DMG](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.2/market-peek-1.0.2-universal.dmg) |
 
 공개된 설치 파일을 표시합니다. macOS 파일이 최신 릴리스보다 오래된 버전이면 새 파일을 준비하는 동안 다운로드를 제공하지 않습니다.
 
@@ -32,10 +32,12 @@ Python을 따로 설치할 필요가 없습니다. Windows 설치 파일에는 A
 
 | 버전 | 변경 내용 |
 | --- | --- |
-| [v1.0.2 Beta](https://github.com/DukiChoi/Market-Peek-releases/releases/tag/v1.0.2) | [변경 내용 보기](https://github.com/DukiChoi/Market-Peek-releases/releases/tag/v1.0.2) |
-| [v1.0.1 Beta](https://github.com/DukiChoi/Market-Peek-releases/releases/tag/v1.0.1) | [변경 내용 보기](https://github.com/DukiChoi/Market-Peek-releases/releases/tag/v1.0.1) |
-| [v1.0.0 Beta](https://github.com/DukiChoi/Market-Peek-releases/releases/tag/v1.0.0) | [변경 내용 보기](https://github.com/DukiChoi/Market-Peek-releases/releases/tag/v1.0.0) |
+| [v1.0.2 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.2) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.2) |
+| [v1.0.1 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.1) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.1) |
+| [v1.0.0 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.0) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.0) |
 
 이 저장소는 배포 파일과 버전 기록을 제공합니다. 프로그램 소스 코드는 포함하지 않습니다.
+
+개발·제작: **Duki Programming**
 
 <!-- 배포 명령이 공개된 릴리스를 기준으로 자동 생성합니다. 원본: distribution/README.template.md -->
