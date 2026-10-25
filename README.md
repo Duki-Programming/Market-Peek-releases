@@ -9,7 +9,7 @@
 | 운영체제 | 버전 | 다운로드 |
 | --- | --- | --- |
 | Windows 64비트 | v1.0.2 Beta | [설치 EXE](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.2/Market.Peek.Setup.1.0.2.exe) · [7z](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.2/market-peek-1.0.2-x64.7z) |
-| macOS Universal | v1.0.3 Beta | [설치 DMG](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.3/market-peek-1.0.3-universal.dmg) |
+| macOS Universal | v1.0.4 Beta | [설치 DMG](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.4/market-peek-1.0.4-universal.dmg) |
 
 공개된 설치 파일을 표시합니다. macOS 파일이 최신 릴리스보다 오래된 버전이면 새 파일을 준비하는 동안 다운로드를 제공하지 않습니다.
 
@@ -22,9 +22,9 @@ Python을 따로 설치할 필요가 없습니다. Windows 설치 파일에는 A
 
 ## 앱 업데이트
 
-업데이트를 지원하는 설치본은 시작할 때 새 버전을 확인합니다. 다운로드 후 **재시작 후 업데이트**를 선택하면 설치합니다. 설정의 **업데이트 확인**으로 수동 확인도 가능합니다.
+업데이트를 지원하는 설치본은 시작할 때 새 버전을 확인합니다. 자동 설치 기능이 포함된 새 설치본은 **업데이트**를 한 번 누르면 다운로드·검증·설치·재실행까지 진행합니다. Windows는 Setup에 포함된 NSIS 기능을, Mac은 앱 내부의 도우미를 사용합니다. 설정과 API 정보는 유지하며 설정의 **업데이트 확인**으로 수동 확인도 가능합니다.
 
-업데이트 서명과 설치 파일의 해시를 검증합니다. 기존 1.0.0·1.0.1 사용자는 업데이트 기능이 포함된 Windows 설치본을 한 번 직접 설치해야 합니다. 현재 Mac 배포본은 새 DMG를 직접 설치해 업데이트합니다. Mac 자동 업데이트는 Developer ID 서명·공증을 적용한 배포본에서 지원합니다.
+업데이트 서명과 설치 파일의 해시를 검증합니다. Mac 도우미는 DMG 하나에 포함되며 Apple Developer ID 없이 앱을 교체합니다. 새 앱의 시작을 확인하지 못하면 이전 앱으로 복구하고, 설치 위치에 쓰기 권한이 없으면 DMG로 직접 교체하도록 안내합니다. 도우미가 없는 기존 Mac 1.0.2·1.0.3은 새 설치본으로 한 번 업데이트해야 합니다.
 
 초기 Windows 1.0.2 설치본에는 GitHub 파일명 처리로 앱 내 업데이트 다운로드가 실패하는 문제가 있습니다. 교체된 1.0.2 설치 파일은 릴리스 페이지에서 한 번 직접 재설치해 주세요. 같은 버전 교체는 앱에서 업데이트로 인식하지 않습니다.
 
@@ -32,6 +32,7 @@ Python을 따로 설치할 필요가 없습니다. Windows 설치 파일에는 A
 
 | 버전 | 변경 내용 |
 | --- | --- |
+| [v1.0.4 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.4) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.4) |
 | [v1.0.3 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.3) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.3) |
 | [v1.0.2 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.2) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.2) |
 | [v1.0.1 Beta](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.1) | [변경 내용 보기](https://github.com/Duki-Programming/Market-Peek-releases/releases/tag/v1.0.1) |
