@@ -8,7 +8,7 @@
 
 | 운영체제 | 버전 | 다운로드 |
 | --- | --- | --- |
-| Windows 64비트 | v1.0.2 Beta | [설치 EXE](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.2/Market.Peek.Setup.1.0.2.exe) · [7z](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.2/market-peek-1.0.2-x64.7z) |
+| Windows 64비트 | v1.0.4 Beta | [설치 EXE](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.4/Market.Peek.Setup.1.0.4.exe) · [7z](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.4/market-peek-1.0.4-x64.7z) |
 | macOS Universal | v1.0.4 Beta | [설치 DMG](https://github.com/Duki-Programming/Market-Peek-releases/releases/download/v1.0.4/market-peek-1.0.4-universal.dmg) |
 
 공개된 설치 파일을 표시합니다. macOS 파일이 최신 릴리스보다 오래된 버전이면 새 파일을 준비하는 동안 다운로드를 제공하지 않습니다.
